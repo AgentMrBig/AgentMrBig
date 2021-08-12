@@ -10,10 +10,10 @@ My name is Eric. I am a full stack developer with a focus on the front end.
 - ⚡ Fun facts: According to current thinking The observable Universe is about 93 billion light years in diameter.
 
 ### Toolbox
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/javascript.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/react.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/redux.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/nextdotjs.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/nodedotjs.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/firebase.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/javascript.svg" /><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/react.svg" /><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/redux.svg" /><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/nextdotjs.svg" /><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/nodedotjs.svg" /><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/firebase.svg" />
+
+
+
+
+
 
