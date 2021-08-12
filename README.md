@@ -8,6 +8,6 @@ My name is Eric. I am a full stack developer with a focus on the front end.
 - 📫 How to reach me: Send me an email at herowebdev@gmail.com.
 - 😄 Pronouns: lol no
 - ⚡ Fun facts: According to current thinking The observable Universe is about 93 billion light years in diameter.
--->
+
 ### Toolbox
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/react.svg" />
