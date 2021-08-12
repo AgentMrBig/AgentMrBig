@@ -5,7 +5,7 @@ My name is Eric. I am a full stack developer with a focus on the front end.
 - 🔭 I’m currently working on a financial assets analytics tool
 - 🌱 I’m currently learning everything along the way
 - 🤔 I’m looking for help with employment, either full-time or part-time but always Remote.
-- 📫 How to reach me: <a href = "mailto: herowebdev@gmail.com">Send me an email</a.
+- 📫 How to reach me: <a href = "mailto: herowebdev@gmail.com">Send me an email</a>.
 - 😄 Pronouns: lol no
 - ⚡ Fun facts: According to current thinking The observable Universe is about 93 billion light years in diameter.
 
