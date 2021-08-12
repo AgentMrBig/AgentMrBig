@@ -16,6 +16,9 @@ My name is Eric. I am a full stack developer with a focus on the front end.
 
 <details>
  <img align="left" alt="AgentMrBig's Github Stats" src="github-readme-stats-rho-ecru.vercel.app/api?username=AgentMrBig&show_icons=true&hide_border=true" />
+ 
+ [![AgentMrBig's GitHub stats](https://github-readme-stats.vercel.app/api?username=agentmrbig)](https://github.com/agentmrbig/github-readme-stats)
+
 </details>
 
  
