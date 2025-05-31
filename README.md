@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-My name is Eric. I am a full stack developer with a focus on the front end.
+My name is Eric. I am a full stack developer and data scientist focusing on timeseries data, specifically Forex price data.
 
 
 - ⚡ Fun facts: According to current thinking The observable Universe is about 93 billion light years in diameter.
